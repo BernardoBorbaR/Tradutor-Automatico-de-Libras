@@ -1,6 +1,7 @@
 gunicorn
 Flask
 Flask-Cors
+Flask-SocketIO
 
 websockets==11.0.3
 opencv-python==4.8.1.78
